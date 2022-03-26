@@ -10,5 +10,6 @@ public class TestCases extends BaseClass{
 public void logintest() {
 	System.out.println("hi");
 	System.out.println("hi am new");
+	System.out.println("hi am from github");
 }
 }
